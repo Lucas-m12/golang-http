@@ -33,4 +33,5 @@ func main() {
 	}
 	output2 := bytes.NewBuffer(dog2Json)
 	fmt.Println(output2)
+
 }
